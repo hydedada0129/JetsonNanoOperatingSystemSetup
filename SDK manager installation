@@ -1,0 +1,3 @@
+download NVIDIA SDK manager 2.0.0 from NVIDIA website, and install it , 
+changed host file: /usr/lib/os-release,  (change them to 18.04.5 LTS（Bionic Beaver) )
+execute sdkmanager , setup enviorment, install packages.
